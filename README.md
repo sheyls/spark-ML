@@ -44,6 +44,7 @@ spark-submit --master local[4] flight_delay_pipeline.py \
     --raw_plane ./data/plane-data.csv \
     --raw_flights ./data/2008.csv.bz2 \
     --out ./results/predictions.csv
+```
 
 ### 3. Arguments
 
