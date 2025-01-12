@@ -1,8 +1,8 @@
-# Flight Delay Prediction Pipeline
+# Flight Delay Prediction
 
 ## Overview
 
-This repository contains the implementation of a pipeline for predicting flight arrival delays using Apache Spark. The project processes large datasets of flight and aircraft data to train and evaluate machine learning models. The pipeline includes preprocessing, model training, and validation steps, leveraging Spark's distributed computing capabilities for scalability.
+This repository contains the implementation of a pipeline for predicting flight arrival delays using Apache Spark. The pipeline includes preprocessing, model training, and validation steps, leveraging Spark's distributed computing capabilities for scalability.
 
 ---
 
